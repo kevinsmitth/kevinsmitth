@@ -1,6 +1,9 @@
 ### 
+<h1>:hammer: Kevin Smith:hammer :</h1>
 <hr>
-Sou um jovem programador, e me apaixonei por Tecnologia de um modo geral. PHP, Laravel, VueJS, foram as linguagens que proporcionaram tudo isso. Busco sempre aprender com erros de um modo geral. Totalmente determinado e disposto a resolver bugs, criar sistemas simples e complexos, e continuar estudando tudo quanto é tipo de tecnologia que satisfaça as vontades dos clientes. Sim, você não leu errado. Minha intenção é aprender pra resolver os problemas dos outros.
+<h3>E ai! Tudo certo? 😄</h3>
+<hr>
+         Meu nome é Kevin, sou um jovem programador, e me apaixonei por tecnologia de um modo geral. PHP, Laravel, VueJS, foram as linguagens que proporcionaram tudo isso. Busco sempre aprender com erros de um modo geral. Totalmente determinado e disposto a resolver bugs, criar sistemas simples e complexos, e continuar estudando tudo quanto é tipo de tecnologia que satisfaça as vontades dos clientes. Sim, você não leu errado. Minha intenção é aprender pra resolver os problemas dos outros.
 Automatizar algo em que o mesmo precise, ou corrigir aquele bug chato que ninguém quer resolver.
 <hr>
 <!--
