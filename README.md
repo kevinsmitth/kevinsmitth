@@ -1,6 +1,9 @@
 ### 
 <h1>:hammer: Kevin Smith</h1>
 <hr>
+<div>
+         <a href="https://github.com/kevinsmitth"><img src="/github_PNG20.png" style="width: 30px;"></a>
+</div>
 <h3>E ai! Tudo certo? 😄</h3>
 <hr>
          <p>Meu nome é Kevin, sou um jovem programador, e me apaixonei por tecnologia de um modo geral. PHP, Laravel, VueJS, foram as linguagens que proporcionaram tudo isso. Busco sempre aprender com erros de um modo geral.</p>
