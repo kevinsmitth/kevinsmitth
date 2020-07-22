@@ -2,7 +2,7 @@
 <h1>:hammer: Kevin Smith</h1>
 <hr>
 <div>
-         <a href="https://github.com/kevinsmitth"><img src="/github_PNG20.png" style="width: 30px;"></a>
+         <a href="https://github.com/kevinsmitth"><img src="./github_PNG20.png" width="30"></a>
 </div>
 <h3>E ai! Tudo certo? 😄</h3>
 <hr>
