@@ -1,17 +1,18 @@
 ### 
 <h1>:hammer: Kevin Smith</h1>
 <hr>
-<div>
-         <div>
+<ul>
+         <li style="list-style:none;">
          <a href="https://github.com/kevinsmitth"><img src="github_PNG20.png" width="30"></a>
-         </div>
-         <div>
+         </li>
+         <li>
          <a href="https://github.com/kevinsmitth"><img src="Linkedin-Logo.png" width="30"></a>
-         </div>
-         <div>
+         </li>
+         <li>
          <a href="https://github.com/kevinsmitth"><img src="gmail-logo-4.png" width="30"></a>
-         </div>
-</div>
+         </li>
+
+</ul>
 <h3>E ai! Tudo certo? 😄</h3>
 <hr>
          <p>Meu nome é Kevin, sou um jovem programador, e me apaixonei por tecnologia de um modo geral. PHP, Laravel, VueJS, foram as linguagens que proporcionaram tudo isso. Busco sempre aprender com erros de um modo geral.</p>
