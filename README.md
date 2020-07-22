@@ -2,11 +2,11 @@
 <h1>:hammer: Kevin Smith</h1>
 <hr>
 <p float="left">
-         <a href="https://github.com/kevinsmitth"><img src="github_PNG20.png" width="30"></a>
+         <a href="https://github.com/kevinsmitth"><img src="github_PNG20.png" width="30" alt="github logo" ></a>
          &nbsp
-         <a href="https://www.linkedin.com/in/kevin-smith-130a04154/"><img src="linkedin.png" width="60"></a>
+         <a href="https://www.linkedin.com/in/kevin-smith-130a04154/"><img src="linkedin.png" width="60" alt="linkedin logo"></a>
          &nbsp
-         <a href="mailto:kevin.marcondes@gmail.com"><img src="gmail-logo-4.png" width="50"></a>
+         <a href="mailto:kevin.marcondes@gmail.com"><img src="gmail-logo-4.png" width="50" alt="email logo"></a>
 </p>
 <h3>E ai! Tudo certo? 😄</h3>
 <hr>
