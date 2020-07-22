@@ -1,8 +1,7 @@
 ### 
-<hr>
+</hr>
 Sou um jovem programador, e me apaixonei por Tecnologia de um modo geral. PHP, Laravel, VueJS, foram as linguagens que proporcionaram tudo isso. Busco sempre aprender com erros de um modo geral. Totalmente determinado e disposto a resolver bugs, criar sistemas simples e complexos, e continuar estudando tudo quanto é tipo de tecnologia que satisfaça as vontades dos clientes. Sim, você não leu errado. Minha intenção é aprender pra resolver os problemas dos outros.
 Automatizar algo em que o mesmo precise, ou corrigir aquele bug chato que ninguém quer resolver.
-</hr>
 <!--
 **kevinsmitth/kevinsmitth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
