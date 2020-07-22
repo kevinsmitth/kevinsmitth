@@ -1,5 +1,5 @@
 ### 
-<h1>:hammer: Kevin Smith:hammer :</h1>
+<h1>:hammer: Kevin Smith</h1>
 <hr>
 <h3>E ai! Tudo certo? 😄</h3>
 <hr>
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ 👋Fun fact: ...
 -->
+ 
