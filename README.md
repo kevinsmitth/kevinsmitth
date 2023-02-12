@@ -1,13 +1,8 @@
 
 <h1>:hammer: Kevin Smith</h1>
 <hr>
-<p float="left">
-         <a href="https://github.com/kevinsmitth" target="_blank"><img src="https://github.com/kevinsmitth/kevinsmitth/blob/master/github_PNG20.png" alt="github logo" /></a>
-         &nbsp
-         <a href="https://www.linkedin.com/in/kevin-smith-130a04154/" target="_blank"><img src="https://github.com/kevinsmitth/kevinsmitth/blob/master/linkedin.png" alt="linkedin logo"></a>
-         &nbsp
-         <a href="mailto:kevin.marcondes@gmail.com" target="_blank"><img src="https://github.com/kevinsmitth/kevinsmitth/blob/master/gmail-logo-4.png" alt="email logo"></a>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kevinsmitth=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>E ai! Tudo certo? 😄</h3>
 <hr>
          <p>Meu nome é Kevin, sou um jovem programador, e me apaixonei por tecnologia de um modo geral. PHP, Laravel, VueJS, foram as linguagens que proporcionaram tudo isso. Busco sempre aprender com erros de um modo geral.</p>
