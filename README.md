@@ -3,9 +3,6 @@
 <hr>
 <div style="display: flex; flex-direction: row;justify-content: center; align-items: center;" align="center">
   <h2>Links</h2>
-  <a href="https://github.com/kevinsmitth/">
-  <img src="https://www.pngall.com/wp-content/uploads/2016/04/Github-Free-Download-PNG.png" width="120" />
-  </a>
   <a href="https://www.linkedin.com/in/kevin-smith-130a04154/">
   <img src="https://www.gov.br/observatorio/es/programas-academicos/posgrado-en-geofisica/imagenes/linkedin.png/@@images/a790388b-9546-4bdf-a28c-e649889ac837.png" width="55" />
   </a>
@@ -20,7 +17,7 @@
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=kevinsmitth&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=kevinsmitth&show_icons=true" />
 </picture>
