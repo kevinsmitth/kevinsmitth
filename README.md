@@ -12,7 +12,7 @@
 <div style="display: flex; flex-direction: row;justify-content: center; align-items: center;" align="center">
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=kevinsmitth&show_icons=true&theme=tokyonight&hide=prs&count_private=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=kevinsmitth&show_icons=true&theme=tokyonight&hide=prs&count_private=true&include_all_commits"
   media="(prefers-color-scheme: dark)"
 />
 <source
