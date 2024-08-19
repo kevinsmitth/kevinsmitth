@@ -2,10 +2,6 @@
 <h1>:hammer: Kevin Smith</h1>
 <hr>
 <div style="display: flex; flex-direction: row;justify-content: center; align-items: center;" align="center">
-  <h2>Links</h2>
-  <a href="https://www.linkedin.com/in/kevin-smith-130a04154/">
-  <img src="https://www.gov.br/observatorio/es/programas-academicos/posgrado-en-geofisica/imagenes/linkedin.png/@@images/a790388b-9546-4bdf-a28c-e649889ac837.png" width="55" />
-  </a>
   
 </div>
 <br>
@@ -27,9 +23,24 @@
 
 <h3>E ai! Tudo certo? 😄</h3>
 <hr>
-         <p>Sou um programador que se apaixonou por tecnologia de um modo geral. PHP, Laravel, VueJS, foram as linguagens que proporcionaram tudo isso. Busco sempre aprender com meus erros, acertos, e tentativas.</p>
-         <p>Totalmente determinado e disposto a resolver bugs, criar sistemas simples e complexos, e continuar estudando tudo quanto é tipo de tecnologia que satisfaça as vontades dos clientes. Sim, você não leu errado. Minha intenção é aprender pra resolver os problemas dos outros.
-Automatizar algo em que o mesmo precise, ou corrigir aquele bug chato que ninguém quer resolver.</p>
+<p>Desenvolvedor de software com 6 anos de experiência, especializado em PHP e
+Laravel. Expertise comprovada em todo o ciclo de vida de desenvolvimento de
+produtos, focado em eficiência, entrega de alta qualidade e melhoria contínua.
+Habilidade comprovada em melhorar o desempenho do sistema e garantir sua
+estabilidade.
+</p>
+<p>
+Competências
+    Técnicas:
+  </p>
+  <p>PHP, Laravel, JavaScript, Vue.js, HTML/CSS, TailwindCSS,
+    SQL Server, PostgreSQL, MySQL, JQuery, SaaS, Docker, REST API, Agile Methodologies, 
+    Project Management, Security, Monitoring and Logging, Cloud skills
+    </p>
+    <p>
+    Soft Skills: Resolução de Problemas, Comunicação, Colaboração em Equipe, Gestão de Tempo,
+    Atenção aos Detalhes
+    </p>
 <hr>
 <!--
 **kevinsmitth/kevinsmitth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
