@@ -11,7 +11,7 @@
 
 <h3>E ai! Tudo certo? 😄</h3>
 <hr>
-<p>Desenvolvedor de software com 6 anos de experiência, especializado em PHP e
+<p>Desenvolvedor de software com 7 anos de experiência, especializado em PHP e
 Laravel. Expertise comprovada em todo o ciclo de vida de desenvolvimento de
 produtos, focado em eficiência, entrega de alta qualidade e melhoria contínua.
 Habilidade comprovada em melhorar o desempenho do sistema e garantir sua
